@@ -49,7 +49,7 @@
 }
 
 .contact-body{
-    height: 700px;
+    height: 1000px;
     background-color: rgb(241, 241, 241);
 }
 
@@ -67,10 +67,6 @@
 .contact-left{
     float: left;
     width: 65%;
-}
-
-.contact-card{
-    margin-top: 30px;
 }
 
 .contact-form-info{

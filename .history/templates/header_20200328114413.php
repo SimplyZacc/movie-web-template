@@ -39,7 +39,7 @@ session_start();
 
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav mr-auto">
-                <a class="navbar-brand" href="#"><img src="assets/images/lgcgreenlogo.png" alt="Cinema Logo" style="width: auto;height: 150px"></a>
+                <a class="navbar-brand" href="#"><img src="assets/images/logo.jpg" alt="Cinema Logo"></a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
@@ -62,7 +62,7 @@ session_start();
                 </li>
 
                 <li class="nav-item ">
-                    <a class="nav-link" href="aboutus.php">About Us</a>
+                    <a class="nav-link disabled" href="aboutus.php">About Us</a>
                 </li>
 
                 <li class="nav-item p-r-10">
@@ -70,7 +70,7 @@ session_start();
                 </li>
 
                 <li class="nav-item p-r-10">
-                    <a class="nav-link" href="blog.php">Blog</a>
+                    <a class="nav-link disabled" href="blog.php">Blog</a>
                 </li>
             </ul>
 

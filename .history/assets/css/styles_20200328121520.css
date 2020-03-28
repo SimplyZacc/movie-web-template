@@ -1,7 +1,3 @@
-*{
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-}
-
 .hr{
     border-color: whitesmoke;
 }
@@ -49,7 +45,7 @@
 }
 
 .contact-body{
-    height: 700px;
+    height: 1000px;
     background-color: rgb(241, 241, 241);
 }
 
@@ -69,13 +65,9 @@
     width: 65%;
 }
 
-.contact-card{
-    margin-top: 30px;
-}
-
 .contact-form-info{
     margin-top: 30px;
-    background-color: white;
+    background-color: grey;
     width: 80%;
 }
 
@@ -84,40 +76,15 @@
     padding-left: 30px;
 }
 
-.contact-form-text{
-    padding-top: 10px;
-}
-
-.contact-form-button{
-    margin-top: 20px;
-    margin-bottom: 30px;
-}
-
 .contact-form-input{
     width: 80%;
     border: none;
     outline: none;
-    border-bottom: 2px solid grey;
+    border-bottom: 2px solid white;
     background-color: transparent;
-    cursor: default;
 }
 
-.contact-form-input:hover{
-    border-bottom: 2px solid #13df13;
-    transition-duration: 0.5s;
-}
-
-.contact-form-textbox{
-    width: 80%;
-    height: 200px;
-    border: none;
-    outline: none;
-    border-bottom: 2px solid grey;
-    background-color: transparent;
-    cursor: default;
-}
-
-.contact-form-textbox:hover{
+.contact-form-input:checked{
     border-bottom: 2px solid #13df13;
     transition-duration: 0.5s;
 }

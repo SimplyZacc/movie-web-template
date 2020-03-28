@@ -1,10 +1,10 @@
 <?php
 //set page vars
-$title = "Index";
+$title = "Blog";
 //include page header
 include "templates/header.php";
 ?>   
 
-<p class="">Index</p>
+<p class="">Blog</p>
 
 <?php include "templates/footer.php"; ?>
