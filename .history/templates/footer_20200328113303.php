@@ -20,25 +20,25 @@
 
                 <ul class="list-unstyled grey">
                     <li>
-                        <a href="#" class="footer-link">A New Sports Movie 1 <span style="float: right"><i class="fas fa-angle-right"></i></span></a>
+                        <a href="#" style="text-decoration: none; ">A New Sports Movie 1 <span style="float: right"><i class="fas fa-angle-right"></i></span></a>
                         <br>
                         <p><i class="far fa-clock"></i> Janurary 1, 2000</p>
                     </li>
                     <hr style="border-color: greenyellow;">
                     <li>
-                        <a href="#" class="footer-link">A New Sports Movie 1 <span style="float: right"><i class="fas fa-angle-right"></i></span></a>
+                        <a href="#" style="text-decoration: none; ">A New Sports Movie 1 <span style="float: right"><i class="fas fa-angle-right"></i></span></a>
                         <br>
                         <p><i class="far fa-clock"></i> Janurary 1, 2000</p>
                     </li>
                     <hr style="border-color: greenyellow;">
                     <li>
-                        <a href="#" class="footer-link">A New Sports Movie 1 <span style="float: right"><i class="fas fa-angle-right"></i></span></a>
+                        <a href="#" style="text-decoration: none; ">A New Sports Movie 1 <span style="float: right"><i class="fas fa-angle-right"></i></span></a>
                         <br>
                         <p><i class="far fa-clock"></i> Janurary 1, 2000</p>
                     </li>
                     <hr style="border-color: greenyellow;">
                     <li>
-                        <a href="#" class="footer-link">A New Sports Movie 1 <span style="float: right"><i class="fas fa-angle-right"></i></span></a>
+                        <a href="#" style="text-decoration: none; ">A New Sports Movie 1 <span style="float: right"><i class="fas fa-angle-right"></i></span></a>
                         <br>
                         <p><i class="far fa-clock"></i> Janurary 1, 2000</p>
                     </li>
@@ -51,25 +51,25 @@
 
                 <ul class="list-unstyled grey">
                     <li>
-                        <a href="#" class="footer-link">A New Sports Blog 1 <span style="float: right"><i class="fas fa-angle-right"></i></span></a>
+                        <a href="#" style="text-decoration: none; ">A New Sports Blog 1 <span style="float: right"><i class="fas fa-angle-right"></i></span></a>
                         <br>
                         <p><i class="far fa-clock"></i> Janurary 1, 2000</p>
                     </li>
                     <hr style="border-color: greenyellow;">
                     <li>
-                        <a href="#" class="footer-link">A New Sports Blog 1 <span style="float: right"><i class="fas fa-angle-right"></i></span></a>
+                        <a href="#" style="text-decoration: none; ">A New Sports Blog 1 <span style="float: right"><i class="fas fa-angle-right"></i></span></a>
                         <br>
                         <p><i class="far fa-clock"></i> Janurary 1, 2000</p>
                     </li>
                     <hr style="border-color: greenyellow;">
                     <li>
-                        <a href="#" class="footer-link">A New Sports Blog 1 <span style="float: right"><i class="fas fa-angle-right"></i></span></a>
+                        <a href="#" style="text-decoration: none; ">A New Sports Blog 1 <span style="float: right"><i class="fas fa-angle-right"></i></span></a>
                         <br>
                         <p><i class="far fa-clock"></i> Janurary 1, 2000</p>
                     </li>
                     <hr style="border-color: greenyellow;">
                     <li>
-                        <a href="#" class="footer-link">A New Sports Blog 1 <span style="float: right"><i class="fas fa-angle-right"></i></span></a>
+                        <a href="#" style="text-decoration: none; ">A New Sports Blog 1 <span style="float: right"><i class="fas fa-angle-right"></i></span></a>
                         <br>
                         <p><i class="far fa-clock"></i> Janurary 1, 2000</p>
                     </li>

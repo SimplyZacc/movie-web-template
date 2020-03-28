@@ -7,14 +7,13 @@
 }
 
 .footer-link{
-    font-weight: bold;
     text-decoration: none;
     color: grey;
 }
 
 .footer-link:hover{
     text-decoration: none;
-    color: #13df13;
+    color: blue;
     transition-duration: 0.5s;
 }
 
