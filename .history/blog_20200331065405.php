@@ -43,7 +43,7 @@ include "templates/header.php";
                         <h4>
                             A new alien movie <br>
                             <span class="blog-info"><i class="far fa-user"></i> Admin <span style="padding-left: 10px">&nbsp;</span> <i class="far fa-calendar-alt"></i> March 30, 2020</span>
-                        </h4>
+                            </h3>
                     </div>
                     <div class="blog-text">
                         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
@@ -63,7 +63,7 @@ include "templates/header.php";
                         <h4>
                             A new alien movie <br>
                             <span class="blog-info"><i class="far fa-user"></i> Admin <span style="padding-left: 10px">&nbsp;</span> <i class="far fa-calendar-alt"></i> March 30, 2020</span>
-                        </h4>
+                            </h3>
                     </div>
                     <div class="blog-text">
                         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
@@ -85,7 +85,7 @@ include "templates/header.php";
                         <h4>
                             A new alien movie <br>
                             <span class="blog-info"><i class="far fa-user"></i> Admin <span style="padding-left: 10px">&nbsp;</span> <i class="far fa-calendar-alt"></i> March 30, 2020</span>
-                        </h4>
+                            </h3>
                     </div>
                     <div class="blog-text">
                         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
@@ -105,7 +105,7 @@ include "templates/header.php";
                         <h4>
                             A new alien movie <br>
                             <span class="blog-info"><i class="far fa-user"></i> Admin <span style="padding-left: 10px">&nbsp;</span> <i class="far fa-calendar-alt"></i> March 30, 2020</span>
-                        </h4>
+                            </h3>
                     </div>
                     <div class="blog-text">
                         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
@@ -125,7 +125,7 @@ include "templates/header.php";
                         <h4>
                             A new alien movie <br>
                             <span class="blog-info"><i class="far fa-user"></i> Admin <span style="padding-left: 10px">&nbsp;</span> <i class="far fa-calendar-alt"></i> March 30, 2020</span>
-                        </h4>
+                            </h3>
                     </div>
                     <div class="blog-text">
                         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt

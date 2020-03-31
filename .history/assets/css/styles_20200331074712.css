@@ -237,11 +237,14 @@
 }
 
 .blog-button2 {
+    margin: auto;
     width: 80%;
     height: 30px;
     margin-top: 10px;
     margin-bottom: 20px;
     border-radius: 50px;
+    margin-left: auto;
+    margin-right: auto;
     border: none;
     color: black;
 }
