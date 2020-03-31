@@ -6,7 +6,7 @@
 
             <div class="col-md-4 mt-md-0 mt-3">
 
-                <img src="assets/images/lg-nbg.png" alt="">
+                <img src="assets/images/lgcgreenlogo.png" alt="">
                 <h5 class="text-uppercase">Limegrove Cinemas</h5>
                 <p style="height: 100px">Some information about the company and their sponsors will go here.</p>
 

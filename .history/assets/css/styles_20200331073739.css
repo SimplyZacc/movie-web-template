@@ -1,52 +1,52 @@
-* {
+*{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
-.bold {
+.bold{
     font-weight: bold;
 }
 
-.center {
+.center{
     text-align: center;
 }
 
-.hr {
+.hr{
     border-color: whitesmoke;
 }
 
-.grey {
+.grey{
     color: grey;
 }
 
-.margin-t-20 {
+.margin-t-20{
     margin-top: 20px;
 }
 
-.margin-b-20 {
+.margin-b-20{
     margin-bottom: 20px;
 }
 
-.footer-link {
+.footer-link{
     font-weight: bold;
     text-decoration: none;
     color: grey;
 }
 
-.footer-link:hover {
+.footer-link:hover{
     text-decoration: none;
     color: #13df13;
     transition-duration: 0.5s;
 }
 
-.navbar-nav>li {
-    padding-left: 30px;
-    padding-right: 30px;
+.navbar-nav > li{
+    padding-left:30px;
+    padding-right:30px;
     font-size: 20px;
 }
 
 /****************************************** Contact Us Page ******************************************/
 
-.contact-head {
+.contact-head{
     height: 300px;
     width: 100%;
     background-image: url('/assets/images/lgcgreenlogo.png');
@@ -55,7 +55,7 @@
     background-size: contain;
 }
 
-.contact-head-body {
+.contact-head-body{
     font-weight: bold;
     font-size: 17px;
     color: green;
@@ -64,52 +64,52 @@
     padding-top: 100px;
 }
 
-.contact-body {
+.contact-body{
     height: 700px;
     background-color: rgb(241, 241, 241);
 }
 
-.contact-body-sub {
+.contact-body-sub{
     width: 90%;
     margin-left: auto;
     margin-right: auto;
 }
 
-.contact-right {
+.contact-right{
     float: right;
     width: 35%;
 }
 
-.contact-left {
+.contact-left{
     float: left;
     width: 65%;
 }
 
-.contact-card {
+.contact-card{
     margin-top: 30px;
 }
 
-.contact-form-info {
+.contact-form-info{
     margin-top: 30px;
     background-color: white;
     width: 80%;
 }
 
 
-.contact-form-info2 {
+.contact-form-info2{
     padding-left: 30px;
 }
 
-.contact-form-text {
+.contact-form-text{
     padding-top: 10px;
 }
 
-.contact-form-button {
+.contact-form-button{
     margin-top: 20px;
     margin-bottom: 30px;
 }
 
-.contact-form-input {
+.contact-form-input{
     width: 80%;
     border: none;
     outline: none;
@@ -118,12 +118,12 @@
     cursor: default;
 }
 
-.contact-form-input:hover {
+.contact-form-input:hover{
     border-bottom: 2px solid #13df13;
     transition-duration: 0.5s;
 }
 
-.contact-form-textbox {
+.contact-form-textbox{
     width: 80%;
     height: 200px;
     border: none;
@@ -133,7 +133,7 @@
     cursor: default;
 }
 
-.contact-form-textbox:hover {
+.contact-form-textbox:hover{
     border-bottom: 2px solid #13df13;
     transition-duration: 0.5s;
 }
@@ -141,7 +141,7 @@
 
 /****************************************** About Us Page ******************************************/
 
-.about-body-inside {
+.about-body-inside{
     width: 80%;
     margin-left: auto;
     margin-right: auto;
@@ -150,14 +150,14 @@
 
 /****************************************** Blog Page ******************************************/
 
-.poster {
+.poster{
     border-radius: 50px;
     background-color: rgb(216, 216, 216);
     height: auto;
     width: 100%;
 }
 
-.poster-img {
+.poster-img{
     border-radius: 50px;
     margin-top: 10px;
     margin-bottom: 10px;
@@ -165,30 +165,30 @@
     height: 200px;
 }
 
-.blog-title {
+.blog-title{
     color: rgb(77, 75, 75);
     font-weight: bold;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 22px;
 }
 
-.poster-txt {
+.poster-txt{
     margin-left: 10px;
     margin-right: 10px;
 }
 
-.blog-info {
+.blog-info{
     font-size: 20px;
 }
 
-.blog-text {
+.blog-text{
     margin-top: 10px;
     margin-bottom: 10px;
     color: rgb(129, 129, 129);
     font-family: Arial, Helvetica, sans-serif;
 }
 
-.blog-button {
+.blog-button{
     width: 80%;
     height: 30px;
     margin-top: 10px;
@@ -200,7 +200,7 @@
     color: black;
 }
 
-.blog-button:hover {
+.blog-button:hover{
     transition-duration: 1s;
     background-color: #13df13;
     color: white;
@@ -208,46 +208,29 @@
 
 /****************************************** Blog Post Page ******************************************/
 
-.blog-post {
+.blog-post{
     width: 100%;
     margin-bottom: 20px;
 }
 
-.blog-post-img {
+.blog-post-img{
     width: 90%;
     margin: auto;
-    text-align: center;
 }
 
-.blog-post-header {
+.blog-post-header{
     width: 90%;
     text-align: center;
-    margin: auto;
     font-weight: bolder;
+    margin: auto;
     color: rgb(77, 75, 75);
     font-family: Arial, Helvetica, sans-serif;
 }
 
-.blog-post-info {
+.blog-post-info{
     text-align: center;
     width: 90%;
     margin: auto;
     color: rgb(129, 129, 129);
     font-family: Arial, Helvetica, sans-serif;
-}
-
-.blog-button2 {
-    width: 80%;
-    height: 30px;
-    margin-top: 10px;
-    margin-bottom: 20px;
-    border-radius: 50px;
-    border: none;
-    color: black;
-}
-
-.blog-button2:hover {
-    transition-duration: 1s;
-    background-color: #13df13;
-    color: white;
 }

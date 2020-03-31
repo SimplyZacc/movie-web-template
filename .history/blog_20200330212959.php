@@ -23,7 +23,7 @@ include "templates/header.php";
                         <h4>
                             A new alien movie <br>
                             <span class="blog-info"><i class="far fa-user"></i> Admin <span style="padding-left: 10px">&nbsp;</span> <i class="far fa-calendar-alt"></i> March 30, 2020</span>
-                        </h4>
+                            </h3>
                     </div>
                     <div class="blog-text">
                         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
@@ -31,7 +31,7 @@ include "templates/header.php";
                         ullamco laboris nisi ut aliquip ex ea commodo consequat.
                     </div>
                 </div>
-                <a href="blogpost.php"><button class="blog-button">See More</button> </a>
+                <a href="#"><button class="blog-button">See More</button> </a>
             </div>
         </div>
 
@@ -43,7 +43,7 @@ include "templates/header.php";
                         <h4>
                             A new alien movie <br>
                             <span class="blog-info"><i class="far fa-user"></i> Admin <span style="padding-left: 10px">&nbsp;</span> <i class="far fa-calendar-alt"></i> March 30, 2020</span>
-                        </h4>
+                            </h3>
                     </div>
                     <div class="blog-text">
                         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
@@ -51,7 +51,7 @@ include "templates/header.php";
                         ullamco laboris nisi ut aliquip ex ea commodo consequat.
                     </div>
                 </div>
-                <a href="blogpost.php"><button class="blog-button">See More</button> </a>
+                <a href="#"><button class="blog-button">See More</button> </a>
             </div>
         </div>
 
@@ -63,7 +63,7 @@ include "templates/header.php";
                         <h4>
                             A new alien movie <br>
                             <span class="blog-info"><i class="far fa-user"></i> Admin <span style="padding-left: 10px">&nbsp;</span> <i class="far fa-calendar-alt"></i> March 30, 2020</span>
-                        </h4>
+                            </h3>
                     </div>
                     <div class="blog-text">
                         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
@@ -71,11 +71,11 @@ include "templates/header.php";
                         ullamco laboris nisi ut aliquip ex ea commodo consequat.
                     </div>
                 </div>
-                <a href="blogpost.php"><button class="blog-button">See More</button> </a>
+                <a href="#"><button class="blog-button">See More</button> </a>
             </div>
         </div>
     </div>
-
+    
     <div class="row margin-t-20">
         <div class="col-sm-6 col-md-4 margin-b-20" style="text-align: center;">
             <div class="poster">
@@ -85,7 +85,7 @@ include "templates/header.php";
                         <h4>
                             A new alien movie <br>
                             <span class="blog-info"><i class="far fa-user"></i> Admin <span style="padding-left: 10px">&nbsp;</span> <i class="far fa-calendar-alt"></i> March 30, 2020</span>
-                        </h4>
+                            </h3>
                     </div>
                     <div class="blog-text">
                         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
@@ -93,7 +93,7 @@ include "templates/header.php";
                         ullamco laboris nisi ut aliquip ex ea commodo consequat.
                     </div>
                 </div>
-                <a href="blogpost.php"><button class="blog-button">See More</button> </a>
+                <a href="#"><button class="blog-button">See More</button> </a>
             </div>
         </div>
 
@@ -105,7 +105,7 @@ include "templates/header.php";
                         <h4>
                             A new alien movie <br>
                             <span class="blog-info"><i class="far fa-user"></i> Admin <span style="padding-left: 10px">&nbsp;</span> <i class="far fa-calendar-alt"></i> March 30, 2020</span>
-                        </h4>
+                            </h3>
                     </div>
                     <div class="blog-text">
                         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
@@ -113,7 +113,7 @@ include "templates/header.php";
                         ullamco laboris nisi ut aliquip ex ea commodo consequat.
                     </div>
                 </div>
-                <a href="blogpost.php"><button class="blog-button">See More</button> </a>
+                <a href="#"><button class="blog-button">See More</button> </a>
             </div>
         </div>
 
@@ -125,7 +125,7 @@ include "templates/header.php";
                         <h4>
                             A new alien movie <br>
                             <span class="blog-info"><i class="far fa-user"></i> Admin <span style="padding-left: 10px">&nbsp;</span> <i class="far fa-calendar-alt"></i> March 30, 2020</span>
-                        </h4>
+                            </h3>
                     </div>
                     <div class="blog-text">
                         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
@@ -133,8 +133,8 @@ include "templates/header.php";
                         ullamco laboris nisi ut aliquip ex ea commodo consequat.
                     </div>
                 </div>
-                <a href="blogpost.php"><button class="blog-button">See More</button> </a>
+                <a href="#"><button class="blog-button">See More</button> </a>
             </div>
         </div>
-    </div>
-    <?php include "templates/footer.php"; ?>
+</div>
+<?php include "templates/footer.php"; ?>
