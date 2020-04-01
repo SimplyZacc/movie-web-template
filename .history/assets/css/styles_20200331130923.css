@@ -4,7 +4,8 @@
 
 .dropdown:hover>.dropdown-menu {
     display: block;
-}
+    transition-duration: 0.5s;
+  }
 
 .bold {
     font-weight: bold;

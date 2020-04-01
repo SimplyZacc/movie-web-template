@@ -51,13 +51,13 @@ session_start();
                     <a class="nav-link" href="index.php">Home <span class="sr-only">(current)</span></a>
                 </li>
                 <li class="nav-item dropdown p-r-10">
-                    <a class="nav-link dropdown-toggle" href="movie.php" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    <a class="nav-link dropdown-toggle disabled" href="movie.php" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                         Movies
                     </a>
                     <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                        <a class="dropdown-item" href="movie.php">Popular</a>
-                        <a class="dropdown-item disabled" href="#">Recently Added</a>
-                        <a class="dropdown-item disabled" href="#">Soon Added</a>
+                        <a class="dropdown-item" href="#">Recently Added</a>
+                        <a class="dropdown-item" href="#">Popular</a>
+                        <a class="dropdown-item" href="#">Soon Added</a>
                     </div>
                 </li>
 

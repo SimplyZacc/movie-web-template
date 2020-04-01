@@ -2,10 +2,6 @@
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
-.dropdown:hover>.dropdown-menu {
-    display: block;
-}
-
 .bold {
     font-weight: bold;
 }
@@ -220,7 +216,7 @@
 
 .blog-post-img {
     width: 90%;
-    height: auto;
+    height: 100%;
     margin: auto;
     text-align: center;
 }

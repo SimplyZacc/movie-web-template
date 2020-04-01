@@ -9,9 +9,9 @@ include "templates/header.php";
     <div class="row">
         <div class="contact-head">
             <div class="contact-head-body">
-                <h2>Blog</h2>
+                <h2>Movies</h2>
                 <hr>
-                <p>Whats new with Theatre.</p>
+                <p>Current movies showing.</p>
             </div>
         </div>
     </div>

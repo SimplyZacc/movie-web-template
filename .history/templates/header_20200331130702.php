@@ -55,7 +55,7 @@ session_start();
                         Movies
                     </a>
                     <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                        <a class="dropdown-item" href="movie.php">Popular</a>
+                        <a class="dropdown-item" href="#">Popular</a>
                         <a class="dropdown-item disabled" href="#">Recently Added</a>
                         <a class="dropdown-item disabled" href="#">Soon Added</a>
                     </div>

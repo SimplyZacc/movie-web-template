@@ -6,7 +6,7 @@ include "templates/header.php";
 ?>
 <div class="container">
     <div class="row">
-        <div class="contact-head">
+        <div class="bp-head">
             <div class="contact-head-body">
                 <h2>A new alien Movie</h2>
                 <hr>

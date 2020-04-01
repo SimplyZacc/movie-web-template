@@ -3,8 +3,9 @@
 }
 
 .dropdown:hover>.dropdown-menu {
+    transition-duration: 1.s;
     display: block;
-}
+  }
 
 .bold {
     font-weight: bold;
