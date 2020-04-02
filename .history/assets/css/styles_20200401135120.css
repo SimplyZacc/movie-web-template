@@ -273,3 +273,12 @@
     margin: 20px;
     border: 1px solid black;
 }
+
+.movie-img{
+    float: left;
+    height: 100%;
+}
+.movie-txt{
+    float: right;
+    height: 100%;
+}

@@ -268,8 +268,5 @@
 }
 
 .movie-inside{
-    width: 95%;
-    height: 90%;
-    margin: 20px;
-    border: 1px solid black;
+    padding: 20px;
 }

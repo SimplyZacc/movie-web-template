@@ -268,7 +268,7 @@
 }
 
 .movie-inside{
-    width: 95%;
+    width: auto;
     height: 90%;
     margin: 20px;
     border: 1px solid black;

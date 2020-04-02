@@ -53,51 +53,96 @@ session_start();
         // Initialize Firebase
         firebase.initializeApp(firebaseConfig);
         firebase.analytics();
-    </script>
 
-</head>
+        <
+        /head>
 
-<body>
+        <
+        body >
 
-    <nav class="navbar navbar-expand-lg navbar-light bg-light">
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-            <i class="fas fa-bars"></i>
-        </button>
+            <
+            nav class = "navbar navbar-expand-lg navbar-light bg-light" >
+            <
+            button class = "navbar-toggler"
+        type = "button"
+        data - toggle = "collapse"
+        data - target = "#navbarSupportedContent"
+        aria - controls = "navbarSupportedContent"
+        aria - expanded = "false"
+        aria - label = "Toggle navigation" >
+            <
+            i class = "fas fa-bars" > < /i> <
+            /button>
 
-        <div class="collapse navbar-collapse" id="navbarSupportedContent">
-            <ul class="navbar-nav mr-auto">
-                <a class="navbar-brand" href="index.php"><img src="assets/images/lgcgreenlogo.png" alt="Cinema Logo" style="width: auto;height: 150px"></a>
+            <
+            div class = "collapse navbar-collapse"
+        id = "navbarSupportedContent" >
+            <
+            ul class = "navbar-nav mr-auto" >
+            <
+            a class = "navbar-brand"
+        href = "index.php" > < img src = "assets/images/lgcgreenlogo.png"
+        alt = "Cinema Logo"
+        style = "width: auto;height: 150px" > < /a>
 
-            </ul>
+            <
+            /ul>
 
-            <ul class="navbar-nav navbar-right">
+            <
+            ul class = "navbar-nav navbar-right" >
 
-                <li class="nav-item active p-r-10">
-                    <a class="nav-link" href="index.php">Home <span class="sr-only">(current)</span></a>
-                </li>
-                <li class="nav-item dropdown p-r-10">
-                    <a class="nav-link dropdown-toggle" href="movie.php" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                        Movies
-                    </a>
-                    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                        <a class="dropdown-item" href="movie.php">Popular</a>
-                        <a class="dropdown-item disabled" href="#">Recently Added</a>
-                        <a class="dropdown-item disabled" href="#">Soon Added</a>
-                    </div>
-                </li>
+            <
+            li class = "nav-item active p-r-10" >
+            <
+            a class = "nav-link"
+        href = "index.php" > Home < span class = "sr-only" > (current) < /span></a >
+            <
+            /li> <
+            li class = "nav-item dropdown p-r-10" >
+            <
+            a class = "nav-link dropdown-toggle"
+        href = "movie.php"
+        id = "navbarDropdown"
+        role = "button"
+        data - toggle = "dropdown"
+        aria - haspopup = "true"
+        aria - expanded = "false" >
+            Movies <
+            /a> <
+            div class = "dropdown-menu"
+        aria - labelledby = "navbarDropdown" >
+            <
+            a class = "dropdown-item"
+        href = "movie.php" > Popular < /a> <
+            a class = "dropdown-item disabled"
+        href = "#" > Recently Added < /a> <
+            a class = "dropdown-item disabled"
+        href = "#" > Soon Added < /a> <
+            /div> <
+            /li>
 
-                <li class="nav-item ">
-                    <a class="nav-link" href="aboutus.php">About Us</a>
-                </li>
+            <
+            li class = "nav-item " >
+            <
+            a class = "nav-link"
+        href = "aboutus.php" > About Us < /a> <
+            /li>
 
-                <li class="nav-item p-r-10">
-                    <a class="nav-link" href="contactus.php">Contact Us</a>
-                </li>
+            <
+            li class = "nav-item p-r-10" >
+            <
+            a class = "nav-link"
+        href = "contactus.php" > Contact Us < /a> <
+            /li>
 
-                <li class="nav-item p-r-10">
-                    <a class="nav-link" href="blog.php">Blog</a>
-                </li>
-            </ul>
+            <
+            li class = "nav-item p-r-10" >
+            <
+            a class = "nav-link"
+        href = "blog.php" > Blog < /a> <
+            /li> <
+            /ul>
 
-        </div>
-    </nav>
+            <
+            /div> <
+            /nav>
