@@ -266,6 +266,12 @@
     height: 300px;
 }
 
+.movie-inside{
+    width: 95%;
+    height: 90%;
+    margin: 20px;
+}
+
 .movie-info-bottom{
     position: relative;
     bottom: 0;
