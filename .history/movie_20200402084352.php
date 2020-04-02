@@ -67,6 +67,7 @@ include "templates/header.php";
                                 <div class="movie-info-bottom">
                                     <span style="color: gold"><i class="fas fa-star"></i> <i class="fas fa-star"></i> <i class="fas fa-star"></i> <i class="far fa-star"></i> <i class="far fa-star"></i></span>
                                     <hr>
+
                                     <span class="blog-info"><i class="far fa-user"></i> Admin <span style="padding-left: 10px">&nbsp;</span> <i class="far fa-calendar-alt"></i> March 30, 2020 <i class="far fa-eye"></i> 95</span>
                                 </div>
                             </div>
