@@ -30,6 +30,31 @@ session_start();
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
     <script src="https://kit.fontawesome.com/e9662c41f5.js" crossorigin="anonymous"></script>
 
+    <!-- Firebase -->
+    <!-- The core Firebase JS SDK is always required and must be listed first -->
+    <script src="https://www.gstatic.com/firebasejs/7.13.1/firebase-app.js"></script>
+
+    <!-- TODO: Add SDKs for Firebase products that you want to use
+     https://firebase.google.com/docs/web/setup#available-libraries -->
+    <script src="https://www.gstatic.com/firebasejs/7.13.1/firebase-analytics.js"></script>
+
+    <script>
+        // Your web app's Firebase configuration
+        var firebaseConfig = {
+            apiKey: "AIzaSyCCu4hTwBGc1lFfUou5Le66XppigQ8CwxQ",
+            authDomain: "movie-template-g.firebaseapp.com",
+            databaseURL: "https://movie-template-g.firebaseio.com",
+            projectId: "movie-template-g",
+            storageBucket: "movie-template-g.appspot.com",
+            messagingSenderId: "251745268129",
+            appId: "1:251745268129:web:c610bd1ff7fdd6c92ddbe0",
+            measurementId: "G-N6RYDSL82F"
+        };
+        // Initialize Firebase
+        firebase.initializeApp(firebaseConfig);
+        firebase.analytics();
+    </script>
+
 </head>
 
 <body>
@@ -62,7 +87,7 @@ session_start();
                 </li>
 
                 <li class="nav-item ">
-                    <a class="nav-link disabled" href="menu.php">Menu</a>
+                    <a class="nav-link" href="aboutus.php">Menu</a>
                 </li>
 
                 <li class="nav-item ">

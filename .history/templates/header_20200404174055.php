@@ -62,7 +62,7 @@ session_start();
                 </li>
 
                 <li class="nav-item ">
-                    <a class="nav-link disabled" href="menu.php">Menu</a>
+                    <a class="nav-link" href="menu.php">Menu</a>
                 </li>
 
                 <li class="nav-item ">

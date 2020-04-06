@@ -36,7 +36,7 @@ include "templates/header.php";
                                 <div class="movie-info-bottom">
                                     <span style="color: gold"><i class="fas fa-star"></i> <i class="fas fa-star"></i> <i class="fas fa-star"></i> <i class="far fa-star"></i> <i class="far fa-star"></i></span>
                                     <hr>
-                                    <span class="blog-info"><i class="far fa-calendar-alt"></i> March 30, 2020</span>
+                                    <span class="blog-info"><i class="far fa-user"></i> Admin <span style="padding-left: 10px">&nbsp;</span> <i class="far fa-calendar-alt"></i> March 30, 2020</span>
                                 </div>
                             </div>
                         </div>
@@ -48,28 +48,15 @@ include "templates/header.php";
         <div class="col-sm-12">
             <div class="movie-border">
                 <div class="movie-inside">
-                    <div class="row">
-                        <div class="col-sm-4">
-                            <div class="movie-img">
-                                <img src="assets/images/photo-manipulation-1825450.jpg" style="width: 350px; height: 265px;" alt="">
-                            </div>
+                    <div class="movie-img">
+
+                    </div>
+                    <div class="movie-txt">
+                        <div class="movie-header">
+
                         </div>
-                        <div class="col-sm-8">
-                            <div class="movie-txt">
-                                <div class="movie-header">
-                                    <h4>
-                                        A new alien movie
-                                    </h4>
-                                </div>
-                                <div class="movie-info">
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Elementum tempus egestas sed sed risus pretium quam vulputate. Ultricies mi quis hendrerit dolor magna. Amet commodo nulla facilisi nullam vehicula ipsum a arcu.
-                                </div>
-                                <div class="movie-info-bottom">
-                                    <span style="color: gold"><i class="fas fa-star"></i> <i class="fas fa-star"></i> <i class="fas fa-star"></i> <i class="far fa-star"></i> <i class="far fa-star"></i></span>
-                                    <hr>
-                                    <span class="blog-info"><i class="far fa-calendar-alt"></i> March 30, 2020</span>
-                                </div>
-                            </div>
+                        <div class="movie-info">
+
                         </div>
                     </div>
                 </div>
