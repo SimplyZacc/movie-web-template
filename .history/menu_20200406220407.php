@@ -15,34 +15,33 @@ include "templates/header.php";
 
 <div class="container">
     <div class="row">
-        <table class="table table-striped table-bordered">
+        <table class="table table-striped">
             <thead>
                 <tr>
                     <th scope="col">#</th>
-                    <th scope="col">Food Name</th>
-                    <th scope="col">Price</th>
+                    <th scope="col">First</th>
+                    <th scope="col">Last</th>
+                    <th scope="col">Handle</th>
                 </tr>
             </thead>
             <tbody>
                 <tr>
                     <th scope="row">1</th>
-                    <td>Large Popcorn</td>
-                    <td>16.00</td>
+                    <td>Mark</td>
+                    <td>Otto</td>
+                    <td>@mdo</td>
                 </tr>
                 <tr>
                     <th scope="row">2</th>
-                    <td>Medium Popcorn</td>
-                    <td>12.00</td>
+                    <td>Jacob</td>
+                    <td>Thornton</td>
+                    <td>@fat</td>
                 </tr>
                 <tr>
                     <th scope="row">3</th>
-                    <td>Small Popcorn</td>
-                    <td>9.00</td>
-                </tr>
-                <tr>
-                    <th scope="row">3</th>
-                    <td>Bacon Cheddar Cheeseburger, Fries & Drink Combo</td>
-                    <td>34.00</td>
+                    <td>Larry</td>
+                    <td>the Bird</td>
+                    <td>@twitter</td>
                 </tr>
             </tbody>
         </table>

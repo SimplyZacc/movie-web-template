@@ -61,7 +61,7 @@ session_start();
                     </div>
                 </li>
                 <li class="nav-item dropdown p-r-10">
-                    <a class="nav-link dropdown-toggle" href="movie.php" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    <a class="nav-link dropdown-toggle disabled" href="movie.php" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                         Menu
                     </a>
                     <div class="dropdown-menu" aria-labelledby="navbarDropdown">

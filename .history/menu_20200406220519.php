@@ -15,7 +15,7 @@ include "templates/header.php";
 
 <div class="container">
     <div class="row">
-        <table class="table table-striped table-bordered">
+        <table class="table table-striped">
             <thead>
                 <tr>
                     <th scope="col">#</th>
@@ -26,23 +26,18 @@ include "templates/header.php";
             <tbody>
                 <tr>
                     <th scope="row">1</th>
-                    <td>Large Popcorn</td>
-                    <td>16.00</td>
+                    <td>Mark</td>
+                    <td>Otto</td>
                 </tr>
                 <tr>
                     <th scope="row">2</th>
-                    <td>Medium Popcorn</td>
-                    <td>12.00</td>
+                    <td>Jacob</td>
+                    <td>Thornton</td>
                 </tr>
                 <tr>
                     <th scope="row">3</th>
-                    <td>Small Popcorn</td>
-                    <td>9.00</td>
-                </tr>
-                <tr>
-                    <th scope="row">3</th>
-                    <td>Bacon Cheddar Cheeseburger, Fries & Drink Combo</td>
-                    <td>34.00</td>
+                    <td>Larry</td>
+                    <td>the Bird</td>
                 </tr>
             </tbody>
         </table>
