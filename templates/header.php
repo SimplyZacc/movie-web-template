@@ -65,7 +65,7 @@ session_start();
                         Menu
                     </a>
                     <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                        <a class="dropdown-item" href="movie.php">Food</a>
+                        <a class="dropdown-item" href="menu.php">Food</a>
                         <a class="dropdown-item disabled" href="#">Drinks</a>
                     </div>
                 </li>
