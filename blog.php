@@ -1,6 +1,4 @@
 <?php
-header('Location: index.php');
-exit;
 //set page vars
 $title = "Blog";
 //include page header
