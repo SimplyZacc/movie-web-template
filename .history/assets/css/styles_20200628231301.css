@@ -289,3 +289,12 @@
     background-repeat: no-repeat;
     background-size: contain;
 }
+
+.contact-head-body {
+    font-weight: bold;
+    font-size: 17px;
+    color: green;
+    width: 30%;
+    padding-left: 50px;
+    padding-top: 100px;
+}

@@ -1,4 +1,4 @@
-<footer class="page-footer font-small pt-4 bg-light" style="height: 100%;">
+<footer class="page-footer font-small pt-4 bg-light">
 
     <div class="container-fluid text-center text-md-left">
 

@@ -19,7 +19,7 @@ include "templates/header.php";
                 <div class="movie-inside">
                     <div class="row">
                         <div class="col-sm-4 col-md-4">
-                            <div class="movie-img">
+                            <div class="movie-img" style="vertical-align: middle;">
                                 <img src="assets/images/photo-manipulation-1825450.jpg" style="max-width: 100%; max-height: 100%;" alt="">
                             </div>
                         </div>

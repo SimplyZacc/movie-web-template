@@ -1,22 +1,17 @@
 <?php
 //set page vars
-$title = "About Us";
+$title = "Index";
 //include page header
 include "templates/header.php";
-?>
+?>   
 
-<div class="contact-head">
-    <div class="contact-head-body">
-        <h2>ABOUT US</h2>
-        <hr>
-        <p>Some information about who we are and what we do.</p>
-    </div>
+<div class="index-head">
 </div>
 
 <div class="about-body">
     <div class="about-body-inside">
 
-        <h2 class="center bold">A bit about limegrove</h2>
+        <h2 class="center bold">Welcome To limegrove</h2>
         <p class="center">
             Limegrove Cinemas is a luxurious boutique cinema located on the "Platinum" west coast of Barbados.
 
@@ -36,17 +31,7 @@ include "templates/header.php";
 
             We thank you for your business and hope you always enjoy the show at Limegrove Cinemas.
         </p>
-
-        <h2 class="center bold">Our Staff</h2>
-        <p class="center">
-            General Manager: Tiffany Williams <br>
-            Assistant Manager: Asha Mayers <br>
-            Assistant Manager: Saasha Grandison <br>
-
-            Limegrove Cinemas, Inc. is Proudly Owned and Operated by:
-            Phil Harden
-        </p>
     </div>
 </div>
 
-<?php include "templates/footer.php"; ?>
+<?php include "templates/footer.php";?>

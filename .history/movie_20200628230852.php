@@ -20,7 +20,7 @@ include "templates/header.php";
                     <div class="row">
                         <div class="col-sm-4 col-md-4">
                             <div class="movie-img">
-                                <img src="assets/images/photo-manipulation-1825450.jpg" style="max-width: 100%; max-height: 100%;" alt="">
+                                <img src="assets/images/photo-manipulation-1825450.jpg" style="max-width: 100%; max-height: 100%; vertical-align: middle;" alt="">
                             </div>
                         </div>
                         <div class="col-sm-8 col-md-8">

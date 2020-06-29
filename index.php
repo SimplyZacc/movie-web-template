@@ -3,12 +3,20 @@
 $title = "Index";
 //include page header
 include "templates/header.php";
-?>   
+?>
 
-<p class="">Index</p>
-<span class="fa-layers fa-fw" style="background:MistyRose">
-    <i class="fas fa-envelope"></i>
-    <span class="fa-layers-counter" style="background:Tomato">1,419</span>
-  </span>
+<div class="index-head">
+</div>
 
-<?php include "templates/footer.php";?>
+<div class="about-body">
+  <div class="about-body-inside">
+
+    <h2 class="center bold">Welcome To limegrove</h2>
+    <div style="text-align: center;">
+      <button class="blog-button">Click here to see current movies</button>
+    </div>
+
+  </div>
+</div>
+
+<?php include "templates/footer.php"; ?>

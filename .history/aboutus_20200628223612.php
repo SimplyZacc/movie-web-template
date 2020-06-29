@@ -13,10 +13,10 @@ include "templates/header.php";
     </div>
 </div>
 
-<div class="about-body">
+<div class="contact-body"  style="margin-bottom: 70px">
     <div class="about-body-inside">
 
-        <h2 class="center bold">A bit about limegrove</h2>
+        <h2 class="center bold">Welcome To limegrove</h2>
         <p class="center">
             Limegrove Cinemas is a luxurious boutique cinema located on the "Platinum" west coast of Barbados.
 

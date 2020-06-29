@@ -37,7 +37,7 @@ include "templates/header.php";
             </div>
         </div>
 
-        <div class="col-sm-12 col-md-4 margin-b-20" style="text-align: center;">
+        <div class="col-sm-6 col-md-4 margin-b-20" style="text-align: center;">
             <div class="poster">
                 <img src="assets/images/photo-manipulation-1825450.jpg" alt="" class="poster-img">
                 <div class="poster-txt">
@@ -57,7 +57,7 @@ include "templates/header.php";
             </div>
         </div>
 
-        <div class="col-sm-12 col-md-4 margin-b-20" style="text-align: center;">
+        <div class="col-sm-6 col-md-4 margin-b-20" style="text-align: center;">
             <div class="poster">
                 <img src="assets/images/photo-manipulation-1825450.jpg" alt="" class="poster-img">
                 <div class="poster-txt">
@@ -79,7 +79,7 @@ include "templates/header.php";
     </div>
 
     <div class="row margin-t-20">
-        <div class="col-sm-12 col-md-4 margin-b-20" style="text-align: center;">
+        <div class="col-sm-6 col-md-4 margin-b-20" style="text-align: center;">
             <div class="poster">
                 <img src="assets/images/photo-manipulation-1825450.jpg" alt="" class="poster-img">
                 <div class="poster-txt">
@@ -99,7 +99,7 @@ include "templates/header.php";
             </div>
         </div>
 
-        <div class="col-sm-12 col-md-4 margin-b-20" style="text-align: center;">
+        <div class="col-sm-6 col-md-4 margin-b-20" style="text-align: center;">
             <div class="poster">
                 <img src="assets/images/photo-manipulation-1825450.jpg" alt="" class="poster-img">
                 <div class="poster-txt">
@@ -119,7 +119,7 @@ include "templates/header.php";
             </div>
         </div>
 
-        <div class="col-sm-12 col-md-4 margin-b-20" style="text-align: center;">
+        <div class="col-sm-6 col-md-4 margin-b-20" style="text-align: center;">
             <div class="poster">
                 <img src="assets/images/photo-manipulation-1825450.jpg" alt="" class="poster-img">
                 <div class="poster-txt">

@@ -18,12 +18,12 @@ include "templates/header.php";
             <div class="movie-border">
                 <div class="movie-inside">
                     <div class="row">
-                        <div class="col-sm-4 col-md-4">
+                        <div class="col-sm-6 col-md-4">
                             <div class="movie-img">
                                 <img src="assets/images/photo-manipulation-1825450.jpg" style="max-width: 100%; max-height: 100%;" alt="">
                             </div>
                         </div>
-                        <div class="col-sm-8 col-md-8">
+                        <div class="col-sm-6 col-md-8">
                             <div class="movie-txt">
                                 <div class="movie-header">
                                     <h4>

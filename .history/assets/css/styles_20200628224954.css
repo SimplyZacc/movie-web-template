@@ -276,16 +276,3 @@
 }
 
 .movie-info-bottom {}
-
-
-/* INDEX */
-
-.index-head {
-    min-height: 300px;
-    height: 100%;
-    width: 100%;
-    background-image: url('/assets/images/lgcgreenlogo.png');
-    background-position-x: center;
-    background-repeat: no-repeat;
-    background-size: contain;
-}

@@ -5,18 +5,24 @@ $title = "About Us";
 include "templates/header.php";
 ?>
 
+<div class="container">
+            <div class="row">
+                <div class="col-3">
 <div class="contact-head">
     <div class="contact-head-body">
-        <h2>ABOUT US</h2>
-        <hr>
-        <p>Some information about who we are and what we do.</p>
+                    <h2>ABOUT US</h2>
+                    <hr>
+                    <p>Some information about who we are and what we do.</p>
+                </div>
+            </div>
+        </div>
     </div>
 </div>
 
-<div class="about-body">
+<div class="about-body" style="margin-bottom: 70px">
     <div class="about-body-inside">
 
-        <h2 class="center bold">A bit about limegrove</h2>
+        <h2 class="center bold">Welcome To limegrove</h2>
         <p class="center">
             Limegrove Cinemas is a luxurious boutique cinema located on the "Platinum" west coast of Barbados.
 
